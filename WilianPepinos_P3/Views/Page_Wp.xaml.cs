@@ -27,4 +27,32 @@ public partial class Page_Wp : ContentPage
         }
     
         }
+
+    
+
+    public class Unsplash
+    {
+        private readonly string _accessKey;
+        private readonly string _baseUrl = "https://api.unsplash.com";
+
+        public Unsplash(string accessKey)
+        {
+            _accessKey = accessKey;
+        }
+
+        public async Task<string> SearchPhotos(string query)
+        {
+            using (var client = new HttpClient())
+            {
+                var response = await client.GetAsync($"{_baseUrl}/search/photos?query={query}&client_id={_accessKey}");
+                return await response.Content.ReadAsStringAsync();
+
+            }
+        }
+    }
 }
+
+
+
+
+

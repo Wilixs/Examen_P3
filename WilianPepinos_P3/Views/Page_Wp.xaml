@@ -9,7 +9,7 @@
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
 
-        <Button Text="Llamar API" Clicked="Button_Clicked" />
+        <!--<Button Text="Llamar API" Clicked="Button_Clicked" />-->
 
         <ListView x:Name="ListaDemo">
             <ListView.ItemTemplate>
