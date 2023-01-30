@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QfuYEanR6JZjo+rFcU6x8dm+dzlqDtaSf063YeQBo4vzl6jSwn+aaVZaSWooFEJ3uf2SYprMa4118sG4CiE63g==",
+  "dgSpecHash": "JdXHlYx2ijDN24IFWq8E8AQiUDbmgP8Nj4PBqZJmu0SJ4qjoqMGs7WOKQxtqcq+vwl2n1YD0qclmZFUsNnwTsw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Wilixs\\Desktop\\Examen_WilianPepinos\\WilianPepinos_P3\\WilianPepinos_P3\\WilianPepinos_P3.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,8 @@
     "C:\\Users\\Wilixs\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\6.0.501\\microsoft.maui.graphics.win2d.winui.desktop.6.0.501.nupkg.sha512",
     "C:\\Users\\Wilixs\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
     "C:\\Users\\Wilixs\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.3\\microsoft.windowsappsdk.1.1.3.nupkg.sha512",
+    "C:\\Users\\Wilixs\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Wilixs\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Wilixs\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Wilixs\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Wilixs\\.nuget\\packages\\system.runtime.interopservices.nfloat.internal\\6.0.1\\system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
